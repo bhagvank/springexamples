@@ -1,6 +1,6 @@
 
 
-package org.javacodegeeks.springmongodb;
+package org.springexamples.springmongodb;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

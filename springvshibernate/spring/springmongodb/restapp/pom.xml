@@ -8,7 +8,7 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.javacodegeeks</groupId>
+	<groupId>org.springexamples</groupId>
 	<artifactId>spring-mongodb-rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-mongodb-rest</name>

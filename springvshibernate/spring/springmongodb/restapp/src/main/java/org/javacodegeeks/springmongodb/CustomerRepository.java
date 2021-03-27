@@ -1,5 +1,5 @@
 
-package org.javacodegeeks.springmongodb;
+package org.springexamples.springmongodb;
 
 import java.util.List;
 

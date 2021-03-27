@@ -1,0 +1,3 @@
+INSERT INTO `employeedb`.`employee` (`id`, `firstName`, `lastName`,`birthdate`) VALUES ('1', 'john', 'smith','10-11-1962 10:10:10');
+INSERT INTO `employeedb`.`employee` (`id`, `firstName`, `lastName`,`birthdate`) VALUES ('2', 'george', 'kinsey','11-01-1982 10:10:10');
+INSERT INTO `employeedb`.`employee` (`id`, `firstName`, `lastName`,`birthdate`) VALUES ('3', 'thomas', 'durham','17-06-1953 10:10:10');

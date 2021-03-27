@@ -1,0 +1,4 @@
+username, user_id, transaction_date, transaction_amount
+david, 13234, 31/10/2018, 10000
+tom, 25134, 3/12/2018, 12321
+george, 12134, 2/02/2018, 23411

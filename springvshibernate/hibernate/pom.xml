@@ -45,19 +45,19 @@
         </dependency>
     </dependencies>
  <build>
-      <sourceDirectory>/Users/bhagvan.kommadi/desktop/javacodegeeks/Code/springvshibernate/hibernate/basic/src</sourceDirectory>
-     <scriptSourceDirectory>/Users/bhagvan.kommadi/desktop/javacodegeeks/Code/springvshibernate/hibernate/basic/src/org/hibernate/java</scriptSourceDirectory>
+      <sourceDirectory>/Users/bhagvan.kommadi/desktop/springexamples/Code/springvshibernate/hibernate/basic/src</sourceDirectory>
+     <scriptSourceDirectory>/Users/bhagvan.kommadi/desktop/springexamples/Code/springvshibernate/hibernate/basic/src/org/hibernate/java</scriptSourceDirectory>
      <resources>
          <resource>
-            <directory>/Users/bhagvan.kommadi/desktop/javacodegeeks/Code/springvshibernate/hibernate/basic/src/resources</directory>
+            <directory>/Users/bhagvan.kommadi/desktop/springexamples/Code/springvshibernate/hibernate/basic/src/resources</directory>
 
          </resource>
          <resource>
-                      <directory>/Users/bhagvan.kommadi/desktop/javacodegeeks/Code/springvshibernate/hibernate/basic/src</directory>
+                      <directory>/Users/bhagvan.kommadi/desktop/springexamples/Code/springvshibernate/hibernate/basic/src</directory>
          </resource>
       </resources>
-      <outputDirectory>/Users/bhagvan.kommadi/desktop/javacodegeeks/Code/springvshibernate/hibernate/basic/target/classes</outputDirectory>
-       <directory>/Users/bhagvan.kommadi/desktop/javacodegeeks/Code/springvshibernate/hibernate/basic/target</directory>
+      <outputDirectory>/Users/bhagvan.kommadi/desktop/springexamples/Code/springvshibernate/hibernate/basic/target/classes</outputDirectory>
+       <directory>/Users/bhagvan.kommadi/desktop/springexamples/Code/springvshibernate/hibernate/basic/target</directory>
       <finalName>hibernate-java</finalName>
    
       <pluginManagement>

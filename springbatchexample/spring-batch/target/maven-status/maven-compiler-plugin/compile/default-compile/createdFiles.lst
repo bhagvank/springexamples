@@ -1,0 +1,11 @@
+org/springexamples/batch/service/MissingUsernameException.class
+org/springexamples/batch/service/RecordFieldSetMapper.class
+org/springexamples/batch/service/SkippingItemProcessor.class
+org/springexamples/batch/SpringBatchConfig.class
+org/springexamples/batch/model/BatchTransaction.class
+org/springexamples/batch/service/CustomSkipPolicy.class
+org/springexamples/batch/Application.class
+org/springexamples/batch/service/NegativeAmountException.class
+org/springexamples/batch/service/CustomItemProcessor.class
+org/springexamples/batch/service/adapter/LocalDateTimeAdapter.class
+org/springexamples/batch/SpringConfig.class

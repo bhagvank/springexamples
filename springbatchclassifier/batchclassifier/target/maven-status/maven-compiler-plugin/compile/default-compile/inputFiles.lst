@@ -1,0 +1,6 @@
+/Users/bhagvan.kommadi/Desktop/springexamples/Code/springbatchclassifier/batchclassifier/src/main/java/org/springexamples/batch/decorator/model/Employee.java
+/Users/bhagvan.kommadi/Desktop/springexamples/Code/springbatchclassifier/batchclassifier/src/main/java/org/springexamples/batch/decorator/mapper/EmployeeRowMapper.java
+/Users/bhagvan.kommadi/Desktop/springexamples/Code/springbatchclassifier/batchclassifier/src/main/java/org/springexamples/batch/decorator/config/SpringJobConfiguration.java
+/Users/bhagvan.kommadi/Desktop/springexamples/Code/springbatchclassifier/batchclassifier/src/main/java/org/springexamples/batch/decorator/classifier/EmployeeClassifier.java
+/Users/bhagvan.kommadi/Desktop/springexamples/Code/springbatchclassifier/batchclassifier/src/main/java/org/springexamples/batch/decorator/aggregator/CustomLineAggregator.java
+/Users/bhagvan.kommadi/Desktop/springexamples/Code/springbatchclassifier/batchclassifier/src/main/java/org/springexamples/batch/decorator/SpringBatchApplication.java

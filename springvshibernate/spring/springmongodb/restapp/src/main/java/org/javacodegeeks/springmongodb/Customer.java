@@ -1,4 +1,4 @@
-package org.javacodegeeks.springmongodb;
+package org.springexamples.springmongodb;
 
 import org.springframework.data.annotation.Id;
 
