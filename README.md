@@ -30,3 +30,16 @@ mvn spring-boot:run
 java -jar target/spring-helloworld-0.1.0.jar
 
 ```
+4. To execute the tests using maven
+```
+mvn test
+
+```
+5. To execute the java main class fom the target :
+```
+mvn exec:java
+```
+6. To execute the java main class fom the target :
+```
+mvn exec:java -Dexec.mainClass=com.journaldev.sparkdemo.WordCounter -Dexec.args=“input.txt"
+```
