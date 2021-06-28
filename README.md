@@ -21,7 +21,12 @@ git clone https://github.com/bhagvank/springexamples.git
 ```
 mvn package
 
-java -jar target/spring-helloworld-0.1.0.jar
+mvn spring-boot:run
+
 ```
 
+3. In each spring example, you can execute the target executable as :
+```
+java -jar target/spring-helloworld-0.1.0.jar
 
+```
