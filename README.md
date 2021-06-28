@@ -35,11 +35,11 @@ java -jar target/spring-helloworld-0.1.0.jar
 mvn test
 
 ```
-5. To execute the java main class fom the target :
+5. To execute the java main class from the target :
 ```
 mvn exec:java
 ```
-6. To execute the java main class fom the target :
+6. To execute the java main class from the target :
 ```
 mvn exec:java -Dexec.mainClass=com.journaldev.sparkdemo.WordCounter -Dexec.args=“input.txt"
 ```
