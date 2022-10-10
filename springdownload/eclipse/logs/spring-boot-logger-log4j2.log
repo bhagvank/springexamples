@@ -1,0 +1,15 @@
+2021-04-14 16:52:28,529 INFO o.s.b.StartupInfoLogger [main] Starting Application using Java 1.8.0_101 on apples-MacBook-Air.local with PID 11058 (/Users/bhagvan.kommadi/spring/gs-spring-boot-initial/target/classes started by bhagvan.kommadi in /Users/bhagvan.kommadi/spring/gs-spring-boot-initial)
+2021-04-14 16:52:28,713 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-14 16:52:28,714 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-04-14 16:52:31,405 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-04-14 16:52:31,441 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-14 16:52:31,442 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2021-04-14 16:52:31,443 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-14 16:52:31,656 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-04-14 16:52:31,657 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2805 ms
+2021-04-14 16:52:32,016 INFO o.s.s.c.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-14 16:52:32,348 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-04-14 16:52:32,414 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-14 16:52:32,429 INFO o.s.b.StartupInfoLogger [main] Started Application in 5.17 seconds (JVM running for 8.006)
+2021-04-14 16:52:32,432 INFO c.e.s.Application [main] Logging info
+2021-04-14 16:52:32,432 DEBUG c.e.s.Application [main] Debug info
